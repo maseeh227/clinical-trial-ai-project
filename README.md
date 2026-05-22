@@ -127,8 +127,3 @@ Kalika • Asia • Nashra  • Pratik • Maseeh • Suhanee
 - Expand multilingual healthcare support
 - Deploy scalable cloud-based infrastructure
 - Build advanced clinician-focused dashboards
-
-
-## Live Demo
-
-Clinical Trial Matching System · Streamlit
